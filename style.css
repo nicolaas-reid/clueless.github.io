@@ -3,11 +3,11 @@
     margin: 0;
     font-family: 'Courier Prime';
   }
-  <!--.container {
+  /*.container {
       width: 95%;
       max-width: 1160px;
       margin: auto;
-  }-->
+  }*/
   .animated-heading {
       display: flex;
       align-items: left;
@@ -18,6 +18,6 @@
       color: #314296;
       font-weight: 500;
   }
-  <!--span#words {
+  /*span#words {
     
-  }-->
+  }*/
