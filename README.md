@@ -13,8 +13,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta https-equiv="X-UA-Compatible" content="ie=edge" />
-  <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap" rel="stylesheet">
+  <link rel="stylesheet"
+   href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body>
@@ -27,7 +27,7 @@
   </div>
   <script type="text/javascript">
     (function () {
-      var words = ["to tolerate a job.","to find a passion.,","to find a purpose.","to be happy." ],
+      var words = ["to tolerate a job.","to find a passion.","to find a purpose.","to be happy." ],
       i = 0;
       setInterval(function(){ $('#words').fadeOut(function(){
           $(this).html(words[(i = (i + 1) % words.length)]).fadeIn();
