@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier Prime';
+  }
+  .container {
+      width: 95%;
+      max-width: 1160px;
+      margin: auto;
+  }
+  .animated-heading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+  }
+  h1 {
+      color: #314296;
+      font-weight: 500;
+  }
+  span#words {
+      font-weight: bolder;
+  }
