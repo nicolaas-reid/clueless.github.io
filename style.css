@@ -10,8 +10,8 @@
   }
   .animated-heading {
       display: flex;
-      align-items: center;
-      justify-content: center;
+      align-items: left;
+      justify-content: left;
       height: 100vh;
   }
   h1 {
